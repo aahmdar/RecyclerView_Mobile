@@ -1,6 +1,8 @@
 package com.example.tugas_recyclerview;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -38,4 +40,8 @@ public class Detail_Item extends AppCompatActivity {
 
     }
 
+    public void btnBack(View view) {
+        Intent intent = new Intent(Detail_Item.this, MainActivity.class);
+        startActivity(intent);
+    }
 }

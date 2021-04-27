@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tugas Bottom Navbar</string>
+    <string name="label_movie">Movie</string>
+    <string name="label_tvshow">TV Show</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="tittle">Title</string>
+    <string name="genre">Genre</string>
+    <string name="syinopsis">Synopsis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="posters">
+        <item>@drawable/movie_ironman2</item>
+        <item>@drawable/movie_ant_man</item>
+        <item>@drawable/movie_captain_america_civil_war</item>
+        <item>@drawable/movie_captain_america_the_first_avenger</item>
+        <item>@drawable/movie_captain_america_the_winter_soldier</item>
+        <item>@drawable/movie_ironman3</item>
+        <item>@drawable/movie_hulk</item>
+        <item>@drawable/movie_thor</item>
+        <item>@drawable/movie_theavengers2012</item>
+        <item>@drawable/movie_thor_the_dark_world</item>
+    </array>
+
+    <string-array name="titles">
+        <item>Iron Man 2</item>
+        <item>Ant Man</item>
+        <item>Captain America Civil War</item>Demo Bottom Navigation
+        <item>Captain America The First Avanger</item>
+        <item>Captain Amerika The Winter Soldier</item>
+        <item>Iron Man 3</item>
+        <item>The Incridible Hulk</item>
+        <item>Thor</item>
+        <item>The Avengers</item>
+        <item>Thor The Dark World</item>
+    </string-array>
+
+    <string-array name="genres">
+        <item>Action, Science Fiction</item>
+        <item>Action, Science Fiction, War</item>
+        <item>Action, Science Fiction, War</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+    </string-array>
+
+    <string-array name="synopsis">
+        <item>Televisi Rusia menunjukkan Stark Industries CEO Tony Stark (Robert Downey, Jr) mengungkapkan identitasnya sebagai Iron Man kepada dunia. Ivan Vanko (Mickey Rourke), yang ayahnya, Anton Vanko (Yevgeni Lazarev), baru saja meninggal karena alkohol, melihat kejadian ini dan mulai membangun reaktor arc untuk balas dendam pada Stark.</item>
+        <item>Pada tahun 1989, ilmuwan Hank Pym mengundurkan diri dari S.H.I.E.L.D. setelah menemukan bahwa mereka berusaha untuk meniru teknologi menyusut Ant-Man nya. Percaya teknologi ini berbahaya, Pym bersumpah untuk menyembunyikannya selama ia hidup. Pada hari ini, putri terasing Pym, Hope van Dyne, dan mantan anak didik, Darren Cross, telah memaksa dia keluar dari perusahaan sendiri. Cross hampir menyempurnakan setelan baju penyusut miliknya sendiri, Yellowjacket, yang mengangetkan Pym.</item>
+        <item>Pada tahun 1991, prajurit super yang dicuci otaknya, James "Bucky" Barnes dikirim dari sebuah pangkalan Hydra di Siberia untuk mencegat sebuah mobil yang membawa sebuah kotak berisi serum tentara super. Pada hari ini, kira-kira satu tahun setelah kekalahan Ultron di negara Sokovia oleh Avengers, Steve Rogers, Natasha Romanoff, Sam Wilson, dan Wanda Maximoff menghentikan Brock Rumlow dari mencuri senjata biologis dari laboratorium di Lagos. Rumlow meledakkan dirinya sendiri, dengan harapan ledakannya bisa membunuh Rogers. Ketika Maximoff melemparkan Rumlow dan ledakannya ke langit dengan telekinesis, ia merusak sebuah bangunan di dekatnya, menewaskan beberapa pekerja kemanusiaan dari Wakanda.</item>
+        <item>Dimulai pada tahun 1942 saat Perang Dunia II, seorang pria bertubuh kurus dan pendek dengan riwayat kesehatan buruk, Steve Rogers (Chris Evans), berusaha untuk bergabung ke militer Amerika untuk ikut berperang. Setelah mencoba berkali-kali dan tidak berhasil, Steve akhirnya berhasil lolos seleksi karena dibantu Dr. Erskine (Stanley Tucci) yang melihat kebaikan di hati Steve. Dr. Erskine menunjuknya sebagai percobaan teknologi terbaru militer Amerika yang bisa mengubah tubuh seseorang dengan memanipulasi gen dan ototnya, menjadikannya manusia unggul. Steve Rogers yang telah menjadi Captain America memiliki kekuatan yang luar biasa diterjunkan dalam medan perang di Eropa melawan Nazi dan berhasil membebaskan banyak tawanan perang Amerika.</item>
+        <item>Dua tahun setelah Pertempuran New York, Steve Rogers bekerja di Washington, D.C. untuk lembaga spionase S.H.I.E.L.D. di bawah Direktur Nick Fury. Rogers dan Natasha Romanoff dikirim oleh tim S.T.R.I.K.E. yang dipimpin oleh Brock Rumlow, untuk membebaskan sandera di dalam kapal S.H.I.E.L.D. dari sekelompok bajak laut yang dipimpin Georges Batroc. Saat di tengah misi, Rogers menemukan bahwa Romanoff mempunyai agenda lain: untuk mengekstrak data dari komputer kapal untuk Fury. Rogers kembali ke Triskelion, markas besar S.H.I.E.L.D., untuk menghadapi Fury dan dijelaskan tentang Proyek Insight: tiga Helicarrier diluncurkan ke udara untuk melenyapkan musuh. Fury menjadi curiga dengan Insight dan memerintahkan pejabat senior S.H.I.E.L.D. Alexander Pierce untuk membatalkannya.</item>
+        <item>Suatu ketika setelah peristiwa The Avengers, Tony Stark membuat beberapa baju Iron Man di rumahnya. Hobinya itu memunculkan perselisihan dengan kekasihnya, pimpinan Stark Industries yang baru Pepper Potts. Dalam kilas balik ke Tahun Baru 1999, Stark dan ilmuwan Maya Hansen dengan sombong menghindari ilmuwan Aldrich Killian yang meminta bantuan Stark untuk mengembangkan usahanya, Advanced Idea Mechanics.</item>
+        <item>The Incredible Hulk merupakan sebuah film Amerika Serikat yang dirilis pada tahun 2008. Film ini adalah film kedua di Marvel Cinematic Universe. Film yang disutradarai oleh Louis Leterrier ini pemainnya antara lain ialah Edward Norton, Liv Tyler, Tim Roth, dan William Hurt. Tanggal rilisnya pada 13 Juni 2008.</item>
+        <item>Pada tahun 965 M, Odin, raja Asgard, berperang melawan Frost Giants dari Jotunheim dan pemimpin mereka Laufey, untuk mencegah mereka menaklukkan sembilan wilayah, dimulai dengan Bumi. Pedang Asgardian mengalahkan Giant Frost dan merebut sumber kekuatan mereka, Casket of Ancient Winters.</item>
+        <item>Loki (Tom Hiddleston) bertemu dengan Other, pemimpin pasukan luar angkasa yang dikenal sebagai Chitauri. Dalam pertukaran untuk mengambil Tesseract, sumber energi yang sangat kuat, Other menjanjikan Loki tentara Chitauri yang dapat ia pimpin untuk menundukkan Bumi. Nick Fury (Samuel L. Jackson), direktur badan pengawas S.H.I.E.L.D, dan letnan Agen Maria Hill (Cobie Smulders) tiba di sebuah fasilitas penelitian terpencil selama evakuasi, di mana fisikawan Dr. Erik Selvig (Stellan Skarsgård) memimpin sebuah tim peneliti untuk melakukan percobaan pada Tesseract. Agen Phil Coulson (Clark Gregg) menjelaskan bahwa Tesseract telah memancar bentuk energi yang tidak biasa. Tesseract tiba-tiba aktif dan membuka portal, memungkinkan Loki untuk mencapai Bumi. Loki mengambil Tesseract dan menggunakan tongkatnya untuk memperbudak Selvig dan beberapa agen, termasuk Clint Barton/Hawkeye (Jeremy Renner), untuk membantunya.</item>
+        <item>Pengembangan Thor: The Dark World dimulai pada April 2011, ketika produser Kevin Feige mengumumkan rencana untuk sekuel dari film crossover The Avengers. Fotografi prinsipalnya dimulai pada September 2012 di Surrey, Inggris dengan pemfilman yang dilanjutkan di Islandia dan London. Thor: The Dark World dijadikan 3D pada masa pasca-produksi.</item>
+    </string-array>
+
+</resources>

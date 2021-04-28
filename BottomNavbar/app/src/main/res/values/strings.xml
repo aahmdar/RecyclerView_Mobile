@@ -8,6 +8,7 @@
     <string name="syinopsis">Synopsis</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Nothing to Show</string>
 
     <array name="posters">
         <item>@drawable/movie_ironman2</item>
@@ -25,9 +26,9 @@
     <string-array name="titles">
         <item>Iron Man 2</item>
         <item>Ant Man</item>
-        <item>Captain America Civil War</item>Demo Bottom Navigation
-        <item>Captain America The First Avanger</item>
-        <item>Captain Amerika The Winter Soldier</item>
+        <item>Civil War</item>Demo Bottom Navigation
+        <item>The First Avanger</item>
+        <item>The Winter Soldier</item>
         <item>Iron Man 3</item>
         <item>The Incridible Hulk</item>
         <item>Thor</item>
